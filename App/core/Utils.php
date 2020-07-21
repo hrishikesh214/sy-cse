@@ -1,8 +1,6 @@
 <?php 
 class Utils extends CodeRunner{
 	public function header(){
-		debug($_SERVER['DOCUMENT_ROOT']);
-		die();
 		$this->load->view('header');
 	}
 	public function footer(){
