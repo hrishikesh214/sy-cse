@@ -2,7 +2,7 @@
 
 	$landing_controller = 'Root';
 
-	$base_url = "http://localhost/pr_file";
+	$base_url = "http://sy-cse.herokuapp.com/";
 
 	$DATABASE = array(
 		'status'    =>false,
